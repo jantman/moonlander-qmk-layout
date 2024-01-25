@@ -8,12 +8,14 @@ The source from Oryx's "Download Source" link is in [source/](source/), with the
 
 **Firmware Version:** v20.0
 
+![image of layer 0 of keyboard layout](layer0.png)
+
+![image of layer 1 of keyboard layout](layer1.png)
+
+![image of layer 2 of keyboard layout](layer2.png)
+
+Key Types:
+
+![image of key types](keytypes.png)
+
 Original layout PDF: [layout.pdf](layout.pdf)
-
-![image of layer 1 of keyboard layout](layout-1.png)
-
-![image of layer 2 of keyboard layout](layout-2.png)
-
-![image of layer 3 of keyboard layout](layout-3.png)
-
-(the above layout images were generated with [make_layout.sh](make_layout.sh))
