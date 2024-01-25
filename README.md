@@ -8,6 +8,8 @@ The source from Oryx's "Download Source" link is in [source/](source/), with the
 
 **Firmware Version:** v23.0
 
+![photograph of the keyboard](hardware.jpg)
+
 ![image of layer 0 of keyboard layout](layer0.png)
 
 ![image of layer 1 of keyboard layout](layer1.png)
