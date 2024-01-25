@@ -6,13 +6,11 @@ So far I've been using ZSA's cloud-based [Oryx](https://www.zsa.io/oryx/) config
 
 The source from Oryx's "Download Source" link is in [source/](source/), with the `.bin` and `.md5` filenames changed to be version-independent. This directory also includes the the compiled firmware binary.
 
-**Firmware Version:** v20.0
+**Firmware Version:** v23.0
 
 ![image of layer 0 of keyboard layout](layer0.png)
 
 ![image of layer 1 of keyboard layout](layer1.png)
-
-![image of layer 2 of keyboard layout](layer2.png)
 
 Key Types:
 
